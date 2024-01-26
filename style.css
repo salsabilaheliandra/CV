@@ -1,0 +1,25 @@
+h1 {
+    font-size: 36pt;
+    }
+    .merah {
+    color: red;
+    }
+
+    .biru{
+        color: blue;
+    }
+
+    #pertama, #kedua {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    #pertama {
+        background-color: green;
+        padding: 10px;
+        border: 5px solid blue;
+    }
+
+    #kedua {
+        background-color: yellow;
+        padding: 20px;
+    }
